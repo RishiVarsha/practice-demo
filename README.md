@@ -1,4 +1,5 @@
 # practice-demo
+
 This is my Git Repository.
 <br>
-Author - Rishi Varsha
+Author - Rishi Varsha (VVIT)
